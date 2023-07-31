@@ -1,1 +1,1 @@
-Vagrant vm
+Vagrant and VM
